@@ -1,0 +1,6 @@
+{
+  "name": "Safe Notes",
+  "description": "Safe Notes is a secure personal notebook app enabling strong local AES-256-GCM encryption, biometric and passcode locks, custom styling, and complete offline autonomy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
